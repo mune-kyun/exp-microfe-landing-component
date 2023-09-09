@@ -1,6 +1,7 @@
 <template>
   <div
-    class="h-full w-full flex flex-col justify-center items-center bg-[#add8e6] p-4 relative"
+    style="height: 100vh"
+    class="w-full flex flex-col justify-center items-center bg-[#add8e6] p-4 relative"
   >
     <div
       class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-transparent z-50"
